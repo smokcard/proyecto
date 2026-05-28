@@ -1,4 +1,4 @@
-/* RESET */
+/* RESET actualizado*/
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ body {
 /* MENÚ actual*/
 nav {
   background: #3b3b3b;
-  color: white;
+  color: rgb(241, 4, 4);
   display: flex;
   justify-content: space-between;
   align-items: center;
